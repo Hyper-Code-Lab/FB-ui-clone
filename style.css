@@ -19,9 +19,12 @@ body{
   width: 100%;
 }
 img{
-  height: 45px;
-  width: 100%;
+  height: auto;
+  width: 60%;
   background-color: transparent;
+  position: relative;
+  left: 25%;
+  margin-top: 10px;
 }
 div.inputs{
   width: 100%;
