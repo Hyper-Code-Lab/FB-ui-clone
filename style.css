@@ -20,10 +20,10 @@ body{
 }
 img{
   height: auto;
-  width: 60%;
+  width: 30%;
   background-color: transparent;
   position: relative;
-  left: 22%;
+  left: 35%;
   margin-top: 10px;
 }
 div.inputs{
